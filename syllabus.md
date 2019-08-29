@@ -1,3 +1,6 @@
+updated:
+Thu 29 Aug 2019 10:53:51 AM EDT
+
 # Digital Pedagogy
 ## Fall 2019
 
@@ -24,10 +27,10 @@ Canvas: We will use Canvas only for recording of grades. All assignments, the sy
 This course serves multiple purposes. It is...
 1. an introduction to pedagogy and the scholarship on pedagogy
 2. an introduction to digital pedagogy (its methods, tools, and research)
-3. the required training for FSU graduate student teaching (i.e. FSU policies, how to use FSU resources and tools, etc.)
-4. an opportunity to prepare materials and become familiar with content that graduate students will teach in coming semesters. 
+3. an opportunity to prepare materials and become familiar with content that graduate students will teach in coming semesters. 
+4. the required training for graduate students to teach at FSU (i.e. policies, procedures, FSU tools and various other nonsense)
 
-Given the multiple goals that this class must fulfill, the format of the course addresses each of these areas in terms. For each class session, we will devote the first part of the class to areas 1 and 2. We will devote the second part to goals 3 and 4.
+Given the multiple goals that this class must fulfill, the format of the course addresses each of these areas in terms. For each class session, we will devote the first part of each class session to areas 1 and 2. We will devote the second part to goals 3 and 4.
 
 ### Schedule
 
@@ -68,9 +71,9 @@ Areas 1 and 2: For pedagogy and digital pedagogy, you will usually be assigned a
 
 You will also usually be given some tools to look at, ranging from very basic and everyday technologies to specialized teaching technologies. This kind of activity is meant simply to allow you a) to gain familiarity with the range of digital tools available and b) try out as many of these tools as possible and relevant to your own teaching and work. 
 
-Area 3. For FSU policy and idiosyncrasies, we will usually cover this in the last bit of the class session. You will not need to prepare anything, in general, for this part of the course. 
+Area 3. To gain familiarity with the content of the Hum 2020 course in particular, we will operate simply as a reading group. You will have the chance to read and discuss the major works in the course. This is meant to serve as a solid backbone for your preparation particularly in teaching your own class as instructor of record. It will also provide the raw content upon which we will apply our various pedagogical techniques.
 
-Area 4. To gain familiarity with the content of the Hum 2020 course in particular, we will operate simply as a reading group. You will have the chance to read and discuss the major works in the course. This is meant to serve as a solid backbone for your preparation particularly in teaching your own class as instructor of record. It will also provide the raw content upon which we will apply our various pedagogical techniques.
+Area 4. For FSU policies and procedures, our time will vary. You do not need to prepare, in general, for this part of the class. 
 
 ### Coursebooks
 
