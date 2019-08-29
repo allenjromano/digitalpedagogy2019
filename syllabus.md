@@ -31,7 +31,7 @@ Given the multiple goals that this class must fulfill, the format of the course 
 
 ### Schedule
 
-Week 1 (Thursday 8/29): Introduction, Outcomes, Resources
+Week 1 (Thursday 8/29): [Introduction, Outcomes, Resources](week1)
 
 Week 2 (9/5): Class Elements: Interaction (aka "Discussion")
 
