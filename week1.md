@@ -9,7 +9,7 @@
 [Oxford Very Short Introductions](https://www.veryshortintroductions.com/)
 
 ### Backwards Design, Student Learning Outcomes
-1. Check out the shortest and sweetest explanation of Backwards Design out there: [https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/] 
+1. Check out the shortest and sweetest explanation of Backwards Design out there: (https://cft.vanderbilt.edu/guides-sub-pages/understanding-by-design/) 
 
 2. Another short overview: https://citl.indiana.edu/teaching-resources/course-design/backward-course-design/ 
 
