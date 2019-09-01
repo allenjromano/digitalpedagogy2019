@@ -1,5 +1,6 @@
 updated:
-Thu 29 Aug 2019 10:53:51 AM EDT
+
+Sun 01 Sep 2019 11:16:47 AM EDT
 
 # Digital Pedagogy
 ## Fall 2019
@@ -36,7 +37,7 @@ Given the multiple goals that this class must fulfill, the format of the course 
 
 Week 1 (Thursday 8/29): [Introduction, Outcomes, Resources](week1)
 
-Week 2 (9/5): Class Elements: Interaction (aka "Discussion")
+Week 2 (9/5): [Class Elements: Interaction (aka "Discussion")](week2)
 
 week 3 (9/12): Class Elements: Communicate Information (aka "Lecture")
 
