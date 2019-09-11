@@ -39,7 +39,7 @@ Week 1 (Thursday 8/29): [Introduction, Outcomes, Resources](week1)
 
 Week 2 (9/5): [Class Elements: Interaction (aka "Discussion")](week2)
 
-week 3 (9/12): Class Elements: Communicate Information (aka "Lecture")
+week 3 (9/12): [Class Elements: Communicate Information (aka "Lecture")](week3)
 
 Week 4 (9/19): Class elements: Written Work
 
