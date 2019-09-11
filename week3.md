@@ -27,9 +27,9 @@ Optional: check out the Gettysburg Address as powerpoint, [http://norvig.com/Get
 **Tools**
 Starting with this week, you'll see in the assignment links to lists of tools and software. These are all works in progress and open to your contirbutions. Simply clone the respository for the class, make your modification, and submit a pull request. (We will go over how to do this in class.) 
 
-[Digital Presentation Tools](): These include familiar and unfamiliar presentation tools. Note that, as in everything for this class, you are not limited to what *everyone else* thinks is the de facto tool. Feel free to experiment.
+[Digital Presentation Tools](tools_presentations): These include familiar and unfamiliar presentation tools. Note that, as in everything for this class, you are not limited to what *everyone else* thinks is the de facto tool. Feel free to experiment.
 
-[Classroom Management / Response Tools](): These include a variety of tools, many of which require students to purchase a system in advance of the term. 
+[Classroom Management / Response Tools](tools_response): These include a variety of tools, many of which require students to purchase a system in advance of the term. 
 
 *Activity*: 
 
