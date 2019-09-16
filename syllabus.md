@@ -41,9 +41,9 @@ Week 2 (9/5): [Class Elements: Interaction (aka "Discussion")](week2)
 
 week 3 (9/12): [Class Elements: Communicate Information (aka "Lecture")](week3)
 
-Week 4 (9/19): Class elements: Written Work
+Week 4 (9/19): [Class elements: Written Work](week4)
 
-Week 5 (9/26): Class Elements: Assessments and Grading
+Week 5 (9/26): [Class Elements: Assessments and Grading](week5)
 
 Week 6 (10/3): Online, Hybrid, Face to Face, Flipped
 
