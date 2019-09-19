@@ -45,25 +45,25 @@ Week 4 (9/19): [Class elements: Written Work](week4)
 
 Week 5 (9/26): [Class Elements: Assessments and Grading](week5)
 
-Week 6 (10/3): Online, Hybrid, Face to Face, Flipped
+Week 6 (10/3): [Online, Hybrid, Face to Face, Flipped](week6)
 
-Week 7 (10/10): Games and Gamefication
+Week 7 (10/10): [Games and Gamefication](week7)
 
-Week 8 (10/17): Media
+Week 8 (10/17): [Media](week8)
 
-Week 9 (10/24): DH Elements: Augmented and Virtual Reality
+Week 9 (10/24): [DH Elements: Augmented and Virtual Reality](week9)
 
-Week 10 (10/31): DH Elements: Collections
+Week 10 (10/31): [DH Elements: Collections](week10)
 
-Week 11 (11/7): DH Elements: Annotation
+Week 11 (11/7): [DH Elements: Annotation](week11)
 
-Week 12 (11/14): DH Elements: Analytics in the classroom
+Week 12 (11/14): [DH Elements: Analytics in the classroom](week12)
 
-Week 13 (11/21): DH Elements: Crazy stuff 
+Week 13 (11/21): [DH Elements: Crazy stuff](week13) 
 
 Week 14 (11/28) NO CLASS -- THANKSGIVING
 
-Week 15 (12/5): Course Design
+Week 15 (12/5): [Course Design](week15)
 
 ### Assignments
 Assignments for each area are listed below
