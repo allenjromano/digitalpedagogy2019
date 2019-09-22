@@ -13,6 +13,7 @@ Sun 22 Sep 2019 11:11:00 AM EDT
 
 - Specifications Grading, chapters 1-3 
 - Cathy Davidson, "How We Measure"
+- ["Assessment" from Digital Humanities Pedagogy](https://digitalpedagogy.mla.hcommons.org/keywords/assessment/)
 
 *Try/Check out*
 Various testing tools:
