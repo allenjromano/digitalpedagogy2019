@@ -13,4 +13,9 @@ In class links:
 
 [SpokenWeb Digital Toolbox](https://montreal.spokenweb.ca/digital-toolbox/)
 
+[Digital Museum of Digital Art](https://dimoda.art)
+
+[on the algorithms of curation](https://stedelijkstudies.com/journal/algorithm-curator-search-non-narrated-collection-presentation/)
+
+[Borderless digital Art Museum](https://borderless.teamlab.art)
 
