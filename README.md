@@ -7,9 +7,8 @@ You will find the course readings and assignments listed on...
 - [the syllabus](syllabus)
 
 Assignments follow a very simple format:
-- [week9](week9): due Thursday 10/24
-- [week10](week10): due Thursday 10/31
 - [week11](week11): due Thursday 11/7
+- [week12](week12): due Thursday 11/14
 
 ## Announcements
 
