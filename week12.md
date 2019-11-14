@@ -25,3 +25,11 @@ From *Digital Pedagogy in the Humanities*:
 ### Primary Reading: 
 We've gotten a bit away from this, but we should get back into it. For these last weeks, we'll look at the Enlightenment and Romanticism. This week, check out Mary Wollstonecraft, in the pcloud drive for the class.
 
+
+### During Class Links:
+[https://blog.wikimedia.org/2016/01/15/15-years-data-visualization/](https://blog.wikimedia.org/2016/01/15/15-years-data-visualization/)
+[https://blog.gdeltproject.org/](https://blog.gdeltproject.org/)
+[https://wiki.dbpedia.org/](https://wiki.dbpedia.org/)
+[https://seealso.org/](https://seealso.org/)
+[https://wiki.polyfra.me/](https://wiki.polyfra.me/)
+[https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
