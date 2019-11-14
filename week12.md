@@ -2,25 +2,25 @@
 ## Analytics in the Classroom
 
 ### Review tools:
-Nvivo: https://its.fsu.edu/service-catalog/research/nvivo (This is of course a whole category of software: https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software#Free_.2F_open_source_software_for_CAQDAS)
+Nvivo: [https://its.fsu.edu/service-catalog/research/nvivo](https://its.fsu.edu/service-catalog/research/nvivo) (This is of course a whole category of software: https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software#Free_.2F_open_source_software_for_CAQDAS)
 
-Voyant: https://voyant-tools.org/
+Voyant: [https://voyant-tools.org/](https://voyant-tools.org/)
 
-visidata: https://visidata.org/
+visidata: [https://visidata.org/](https://visidata.org/)
 
-palladio: https://hdlab.stanford.edu/palladio/
+palladio: [https://hdlab.stanford.edu/palladio/](https://hdlab.stanford.edu/palladio/)
 
-Google map tools: https://www.google.com/earth/outreach/tools/
+Google map tools: [https://www.google.com/earth/outreach/tools/](https://www.google.com/earth/outreach/tools/)
 
-Google ngram viewer: https://books.google.com/ngrams
+Google ngram viewer: [https://books.google.com/ngrams](https://books.google.com/ngrams)
 
 (Feel free to suggest your own ideas; this is clearly suggestive rather than exhaustive)
 
 ### Read 
 From *Digital Pedagogy in the Humanities*:
-- https://digitalpedagogy.mla.hcommons.org/keywords/network/
-- https://digitalpedagogy.mla.hcommons.org/keywords/text-analysis/
-- https://digitalpedagogy.mla.hcommons.org/keywords/visualization/
+- [https://digitalpedagogy.mla.hcommons.org/keywords/network/](https://digitalpedagogy.mla.hcommons.org/keywords/network/)
+- [https://digitalpedagogy.mla.hcommons.org/keywords/text-analysis/](https://digitalpedagogy.mla.hcommons.org/keywords/text-analysis/)
+- [https://digitalpedagogy.mla.hcommons.org/keywords/visualization/](https://digitalpedagogy.mla.hcommons.org/keywords/visualization/)
 
 ### Primary Reading: 
 We've gotten a bit away from this, but we should get back into it. For these last weeks, we'll look at the Enlightenment and Romanticism. This week, check out Mary Wollstonecraft, in the pcloud drive for the class.
