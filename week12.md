@@ -28,13 +28,21 @@ We've gotten a bit away from this, but we should get back into it. For these las
 
 ### During Class Links:
 [https://blog.wikimedia.org/2016/01/15/15-years-data-visualization/](https://blog.wikimedia.org/2016/01/15/15-years-data-visualization/)
+
 [https://blog.gdeltproject.org/](https://blog.gdeltproject.org/)
+
 [https://wiki.dbpedia.org/](https://wiki.dbpedia.org/)
+
 [https://seealso.org/](https://seealso.org/)
+
 [https://wiki.polyfra.me/](https://wiki.polyfra.me/)
+
 [https://school.bighistoryproject.com/bhplive](https://school.bighistoryproject.com/bhplive)
+
 [http://www.chrisharrison.net/index.php/Visualizations/ClusterBall](http://www.chrisharrison.net/index.php/Visualizations/ClusterBall)
+
 [http://www.tracemedia.co.uk/terra/](http://www.tracemedia.co.uk/terra/)
+
 [https://www.wikidata.org/wiki/Wikidata:Tools/Visualize_data](https://www.wikidata.org/wiki/Wikidata:Tools/Visualize_data)
 
 [https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future](https://www.theguardian.com/technology/2019/nov/12/history-as-a-giant-data-set-how-analysing-the-past-could-help-save-the-future)
